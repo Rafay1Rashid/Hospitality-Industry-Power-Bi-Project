@@ -1,28 +1,28 @@
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+Project: Business & Data Intelligence Dashboard for AtliQ Grands
+Overview
+AtliQ Grands, a renowned luxury hotel chain with multiple five-star properties across India, has been a prominent player in the hospitality industry for over 20 years. However, in recent times, the company has been experiencing a decline in market share and revenue, primarily due to strategic moves from competitors and ineffective decision-making at the management level.
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
+To regain its competitive edge, AtliQ Grands decided to incorporate Business and Data Intelligence to make data-driven decisions and optimize revenue management. As they lacked an in-house data analytics team, the company hired an external service provider to develop a Power BI dashboard using their historical data.
 
-Task:  
+Objective
+The objective of this project was to develop a Power BI Dashboard that would provide AtliQ Grands with deep insights into their historical data, enabling them to make more informed decisions in areas such as:
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
-
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Download Problem Files
-
-How to Get Started
-View Rules 
-Data Analytics Bootcamp 4.0: With Practical Job Assistance + AI for Data AnalystsNew Updates
-US$150
-Data Analytics Bootcamp 4.0: With Practical Job Assistance + AI for Data Analysts
-Become a high paying AI-enabled Data Analyst by learning the secrets of the industry taught by two data analyst hiring managers with 8+ years of international experience in data industry.
-
-What will you get?
-A real-time data analytics project to add to your resume.
-An opportunity to learn data analytics using business use cases and datasets.
-The top 3 submissions will receive Codebasics swag.
-Every qualified submission gets an appreciation certificate.
-Need assistance with the challenge?
-Join our Discord community here.
+Revenue Management
+Market Share Analysis
+Customer Segmentation
+Booking Trends and Seasonal Analysis
+Performance by Hotel Property
+Key Features
+Historical Data Analysis: Leveraging past performance data to identify trends, seasonal fluctuations, and booking patterns across multiple properties.
+Revenue Insights: Visualizing revenue data to monitor performance, optimize pricing strategies, and identify revenue gaps.
+Competitive Benchmarking: Providing insights into competitor performance to help AtliQ Grands develop strategies to recapture market share.
+Interactive Reporting: Creating interactive and dynamic reports for various departments, from management to operations, to enable data-driven decision-making.
+Customer Segmentation: Analyzing customer behavior and segmenting them for targeted marketing and personalized offerings.
+Tools & Technologies Used
+Power BI: For creating dynamic, interactive dashboards and reports.
+SQL: For data extraction and transformation.
+Excel: For preliminary data cleaning and analysis.
+Historical Hotel Data: Data from AtliQ Grands' past booking and financial records.
+Outcome
+The developed dashboard empowers AtliQ Grands’ management team to track key performance indicators (KPIs), optimize revenue strategies, and stay ahead of competitors by leveraging data-driven insights. This project helped AtliQ Grands move towards more effective decision-making and regain its foothold in the luxury/business hotel category.
 
